@@ -1,0 +1,17 @@
+{
+    "name": "nouveau/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "morykandia",
+            "email": "traore.mory-kandja@orange.fr"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
